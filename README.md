@@ -18,11 +18,6 @@
 ## 📊 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abbasgawali111?theme=dark&font=Karma&ext=heatmap)
 
-
-## 📊 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/abbasgawali111?theme=radical&font=Karma&ext=heatmap)
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
